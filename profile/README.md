@@ -13,7 +13,7 @@
 | [fullmoon-sdk](https://github.com/Fullmoon-OSS/fullmoon-sdk) | 공식 경제 API 클라이언트 — 의존성 0, Node 18+. 통합 카탈로그(플러그인 마켓) 포함 |
 | [fullmoon-economy-api](https://github.com/Fullmoon-OSS/fullmoon-economy-api) | 읽기 전용 경제 HTTP API 서버 |
 | [fullmoon-docs](https://github.com/Fullmoon-OSS/fullmoon-docs) | 개발자 가이드·정책 |
-| [fullmoon-client](https://github.com/Fullmoon-OSS/fullmoon-client) | 풀문 전용 마인크래프트 클라이언트 — 원클릭 접속 런처 + 네이티브 워프 GUI (GPL-3.0) |
+| [fullmoon-client](https://github.com/RedHatOnTop/fullmoon-client) | 풀문 전용 마인크래프트 클라이언트 — 원클릭 접속 런처 + 네이티브 워프 GUI (GPL-3.0) |
 
 ## 빠른 시작
 
