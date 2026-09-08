@@ -26,7 +26,7 @@ curl -s https://api.fullmoon.ink/economy/v1/health
 시작 가이드는 [fullmoon-docs](https://github.com/Fullmoon-OSS/fullmoon-docs)에
 있어요.
 
-## 통합 등록 (커뮤니티 모듈)
+## 모듈 등록
 
 SDK·API 위에 만든 봇·대시보드·도구는
 [modules.fullmoon.ink](https://modules.fullmoon.ink) 카탈로그에 등록할 수 있어요.
