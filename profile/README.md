@@ -31,7 +31,7 @@ curl -s https://api.fullmoon.ink/economy/v1/health
 SDK·API 위에 만든 봇·대시보드·도구는
 [modules.fullmoon.ink](https://modules.fullmoon.ink) 카탈로그에 등록할 수 있어요.
 [MODULES.md](https://github.com/Fullmoon-OSS/fullmoon-sdk/blob/main/MODULES.md)의
-절차대로 PR 한 장만 넣으면 돼요.
+절차대로 — git이 편하면 PR, 아니면 이슈 한 장으로도 등록할 수 있어요.
 
 ## 라이선스
 
