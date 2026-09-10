@@ -14,7 +14,7 @@
 | [fullmoon-economy-api](https://github.com/Fullmoon-OSS/fullmoon-economy-api) | 읽기 전용 경제 HTTP API 서버예요 |
 | [fullmoon-modules](https://github.com/Fullmoon-OSS/fullmoon-modules) | 모듈 카탈로그 사이트 — [modules.fullmoon.ink](https://modules.fullmoon.ink)에서 서빙돼요 |
 | [fullmoon-docs](https://github.com/Fullmoon-OSS/fullmoon-docs) | 개발자 가이드·정책이에요 |
-| [fullmoon-client](https://github.com/RedHatOnTop/fullmoon-client) | 풀문 전용 마인크래프트 클라이언트 — 원클릭 접속 런처 + 네이티브 워프 GUI (GPL-3.0) |
+| [fullmoon-client](https://github.com/Fullmoon-OSS/fullmoon-client) | 풀문 전용 마인크래프트 클라이언트 — 원클릭 접속 런처 + 네이티브 워프 GUI (GPL-3.0) |
 
 ## 빠른 시작
 
